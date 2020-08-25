@@ -1,4 +1,19 @@
-# QUELCODE PHP課題 
+# QUELCODE PHP課題
+
+## 起動方法
+
+### macOS
+
+```
+# （初回のみ）イメージの作成
+docker-compose build
+
+# （2回目以降）
+docker-compose up -d
+
+# 疎通確認（10081でポートマッピングしています）
+open http://localhost:10081
+```
 
 ## ディレクトリ解説
 
