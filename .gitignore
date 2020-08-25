@@ -1,5 +1,6 @@
 .vscode
 .DS_Store
+.idea/
 
 /html/php-challenge/member_picture/*
 !/html/php-challenge/member_picture/.gitkeep
